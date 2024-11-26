@@ -2408,6 +2408,67 @@ a:hover.back-to-top {
 }
 /* end of min-width width 1200px */
 
+
+/* LOGIN  */
+.login__social {
+	padding-top: 52px;
+}
+
+.login__social__links {
+	text-align: center;
+}
+
+.login__social__links span {
+	color: #ffffff;
+	display: block;
+	font-size: 13px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+}
+
+.login__social__links ul li {
+	list-style: none;
+	margin-bottom: 15px;
+}
+
+.login__social__links ul li:last-child {
+	margin-bottom: 0;
+}
+
+.login__social__links ul li a {
+	color: #ffffff;
+	display: block;
+	font-size: 13px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	width: 100%;
+	padding: 14px 0;
+	position: relative;
+	margin: 0 auto;
+	text-decoration: none;
+}
+
+.login__social__links ul li a.facebook {
+	background: #4267b2;
+}
+
+.login__social__links ul li a.google {
+	background: #ff4343;
+}
+
+.login__social__links ul li a.twitter {
+	background: #1da1f2;
+}
+
+.login__social__links ul li a i {
+	font-size: 20px;
+	position: absolute;
+	left: 32px;
+	top: 14px;
+}
 /*--------------------------------------------------------------
 # Events Section
 --------------------------------------------------------------*/
